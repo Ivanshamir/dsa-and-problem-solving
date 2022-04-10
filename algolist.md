@@ -1,0 +1,4 @@
+# This is for all algorithm list
+| Problem | Link | Algorithm | Description |
+| ------------ | ------------- | ------------- | ------------- |
+| 347. Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | **Bucket Sort Algorithm** | Bucket Sort is a sorting algorithm that divides the unsorted array elements into several groups called buckets. Each bucket is then sorted by using any of the suitable sorting algorithms or recursively applying the same bucket algorithm. Finally, the sorted buckets are combined to form a final sorted array. Time and memory complexity: O(N). [Link1](https://www.programiz.com/dsa/bucket-sort), [Link2](https://www.geeksforgeeks.org/bucket-sort-2/) |
