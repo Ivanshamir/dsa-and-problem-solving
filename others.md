@@ -15,5 +15,8 @@ for (int i = 0; i < n; i++) {
 ```
 The loop may, at first glance, look like O(n^2) but the inner loop maximally creates 5 iterations for every iteration of the outer loop. So we receive only 5 * n iterations in total, not something like n^2. The complexity thus is O(n). [Link](https://stackoverflow.com/questions/46655902/are-nested-for-loops-always-on2)
 
-2. **Important func for python:** `ord()` returns the Unicode code from a given character. [Link](https://www.geeksforgeeks.org/ord-function-python/)
+2. ### Important link:
+| Func | Link | Description |
+| ------------ | ------------- | ------------- |
+| `ord()` | returns the Unicode code from a given character | [Link](https://www.geeksforgeeks.org/ord-function-python/) |
 3. 
