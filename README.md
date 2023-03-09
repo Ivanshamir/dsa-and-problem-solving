@@ -27,3 +27,4 @@ This repository is mainly for learning purpose. I will try to solve different ty
 | 852. Peak Index in a Mountain Array | [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | used binary search. | O(logN) time, O(1) space |
 | 162. Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element/description/) | used binary search. | O(logN) time, O(1) space |
 | 540. Single Element in a Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | binary search.check mid and mid+1 is different or not. if not then mid+1 otherwise mid. now check mid+1 % 2 === 0, if it is then go to right otherwise left | O(logN) time, O(1) space |
+| 367. Valid Perfect Square | [Link](https://leetcode.com/problems/valid-perfect-square/description/) | binary search | O(logN) time, O(1) space |
