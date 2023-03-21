@@ -29,3 +29,4 @@ This repository is mainly for learning purpose. I will try to solve different ty
 | 540. Single Element in a Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | binary search.check mid and mid+1 is different or not. if not then mid+1 otherwise mid. now check mid+1 % 2 === 0, if it is then go to right otherwise left | O(logN) time, O(1) space |
 | 367. Valid Perfect Square | [Link](https://leetcode.com/problems/valid-perfect-square/description/) | binary search | O(logN) time, O(1) space |
 | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/description/) | binary search | O(logN) time, O(1) space |
+| 344. Reverse String | [Link](https://leetcode.com/problems/reverse-string/description/) | two pointers | O(N) time, O(1) space |
