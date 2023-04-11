@@ -30,3 +30,4 @@ This repository is mainly for learning purpose. I will try to solve different ty
 | 367. Valid Perfect Square | [Link](https://leetcode.com/problems/valid-perfect-square/description/) | binary search | O(logN) time, O(1) space |
 | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/description/) | binary search | O(logN) time, O(1) space |
 | 344. Reverse String | [Link](https://leetcode.com/problems/reverse-string/description/) | two pointers | O(N) time, O(1) space |
+| 1832. Check if the Sentence Is Pangram | [Link](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | first create words object. Then add 1 by sentence and finally check if there is any key with 0 value | O(N) time, O(1) space |
